@@ -1,0 +1,38 @@
+  [
+        {
+          "custId": 1,
+          "custName": "Ram",
+          "trxAmt": 120,
+          "custTrxDate": "05-01-2021"
+        },
+        {
+          "custId": 1,
+          "custName": "Ram",
+          "trxAmt": 85,
+          "custTrxDate": "05-21-2021"
+        },
+        {
+          "custId": 1,
+          "custName": "Ram",
+          "trxAmt": 194,
+          "custTrxDate": "05-21-2021"
+        },
+        {
+          "custId": 2,
+          "custName": "Shyam",
+          "trxAmt": 224,
+          "custTrxDate": "07-21-2021"
+        },
+         {
+          "custId": 2,
+          "custName": "Shyam",
+          "trxAmt": 524,
+          "custTrxDate": "07-28-2021"
+        },
+        {
+          "custId": 3,
+          "custName": "Rick",
+          "trxAmt": 240,
+          "custTrxDate": "06-21-2021"
+        }
+    ]
